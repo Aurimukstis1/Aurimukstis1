@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aurimukstis1 
+- 👀 I’m interested in making random stuff idk
+- 🌱 I’m currently learning Python, C++, GML
+- 📫 How to reach me - pranasaujulietu@gmail.com
