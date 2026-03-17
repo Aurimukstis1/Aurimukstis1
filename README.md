@@ -2,4 +2,5 @@
 - I’m interested in Low level & High level programming
 - Familiar with: Python, C++, HTML, JS, CSS, Rust
 
-https://Aurimukstis1.dev/
+Check out my newest project?
+https://balandis.aurimukstis1.dev/
